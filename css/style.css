@@ -424,11 +424,11 @@ button {
 
 .modal-dialog {
     max-width: 780px;
-    width: 95%;
+    width: 100%;
     background: #ffffff;
     border-radius: 5px;
     margin: auto;
-    padding: 40px 45px;
+    padding: 15px;
 }
 
 .modal-dialog-auth {
@@ -438,7 +438,7 @@ button {
 
 .label-auth {
     display: block;
-    margin: 30px;
+    margin: 20px;
 }
 
 .label-auth span {
@@ -471,8 +471,8 @@ button {
     border: none;
     background-color: transparent;
     position: absolute;
-    top: 10px;
-    right: 20px;
+    top: 0;
+    right: 10px;
 }
 
 .modal-body {
